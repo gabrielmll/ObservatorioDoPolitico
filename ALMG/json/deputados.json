@@ -1,0 +1,341 @@
+{
+    "name": "ALMG",
+    "children": [
+        {
+            "name": "PMDB",
+            "children": [
+                {
+                    "name": "Adalclever Lopes"
+                },
+                {
+                    "name": "Cabo Júlio"
+                },
+                {
+                    "name": "Ivair Nogueira"
+                },
+                {
+                    "name": "José Henrique"
+                },
+                {
+                    "name": "Leonédio Bouças"
+                },
+                {
+                    "name": "Sávio Souza Cruz"
+                },
+                {
+                    "name": "Tadeu Martins Leite"
+                },
+                {
+                    "name": "Vanderlei Miranda"
+                }
+            ]
+        },
+        {
+            "name": "PT",
+            "children": [
+                {
+                    "name": "Adelmo Carneiro Leão"
+                },
+                {
+                    "name": "Almir Paraca"
+                },
+                {
+                    "name": "André Quintão"
+                },
+                {
+                    "name": "Durval ângelo"
+                },
+                {
+                    "name": "Elismar Prado"
+                },
+                {
+                    "name": "Maria Tereza Lara"
+                },
+                {
+                    "name": "Paulo Guedes"
+                },
+                {
+                    "name": "Paulo Lamac"
+                },
+                {
+                    "name": "Pompilio Canavez"
+                },
+                {
+                    "name": "Rogério Correia"
+                },
+                {
+                    "name": "Ulysses Gomes"
+                }
+            ]
+        },
+        {
+            "name": "PDT",
+            "children": [
+                {
+                    "name": "Alencar da Silveira Jr"
+                },
+                {
+                    "name": "Carlos Pimenta"
+                },
+                {
+                    "name": "Gustavo Perrella"
+                },
+                {
+                    "name": "Sargento Rodrigues"
+                },
+                {
+                    "name": "Tenente Lúcio"
+                }
+            ]
+        },
+        {
+            "name": "PSDB",
+            "children": [
+                {
+                    "name": "Ana Maria Resende"
+                },
+                {
+                    "name": "Bonifácio Mourão"
+                },
+                {
+                    "name": "Carlos Mosconi"
+                },
+                {
+                    "name": "Célio Moreira"
+                },
+                {
+                    "name": "Dalmo Ribeiro Silva"
+                },
+                {
+                    "name": "Dinis Pinheiro"
+                },
+                {
+                    "name": "João Leite"
+                },
+                {
+                    "name": "Lafayette de Andrada"
+                },
+                {
+                    "name": "Leonardo Moreira"
+                },
+                {
+                    "name": "Luiz Henrique"
+                },
+                {
+                    "name": "Luiz Humberto Carneiro"
+                },
+                {
+                    "name": "Rômulo Viegas"
+                },
+                {
+                    "name": "Zé Maia"
+                }
+            ]
+        },
+        {
+            "name": "PTC",
+            "children": [
+                {
+                    "name": "Anselmo José Domingos"
+                }
+            ]
+        },
+        {
+            "name": "PSC",
+            "children": [
+                {
+                    "name": "Antônio Carlos Arantes"
+                },
+                {
+                    "name": "Antônio Genaro"
+                }
+            ]
+        },
+        {
+            "name": "PSB",
+            "children": [
+                {
+                    "name": "Antonio Lerin"
+                },
+                {
+                    "name": "Liza Prado"
+                }
+            ]
+        },
+        {
+            "name": "PTB",
+            "children": [
+                {
+                    "name": "Arlen Santiago"
+                },
+                {
+                    "name": "Braulio Braz"
+                },
+                {
+                    "name": "Dilzon Melo"
+                },
+                {
+                    "name": "Juninho Araújo"
+                },
+                {
+                    "name": "Marques Abreu"
+                }
+            ]
+        },
+        {
+            "name": "PT DO B",
+            "children": [
+                {
+                    "name": "Bosco"
+                }
+            ]
+        },
+        {
+            "name": "PRB",
+            "children": [
+                {
+                    "name": "Carlos Henrique"
+                },
+                {
+                    "name": "Gilberto Abramo"
+                }
+            ]
+        },
+        {
+            "name": "PC DO B",
+            "children": [
+                {
+                    "name": "Celinho do Sinttrocel"
+                },
+                {
+                    "name": "Mário Henrique Caixa"
+                }
+            ]
+        },
+        {
+            "name": "PR",
+            "children": [
+                {
+                    "name": "Deiró Marra"
+                }
+            ]
+        },
+        {
+            "name": "PSD",
+            "children": [
+                {
+                    "name": "Doutor Wilson Batista"
+                },
+                {
+                    "name": "Duarte Bechir"
+                },
+                {
+                    "name": "Fabiano Tolentino"
+                },
+                {
+                    "name": "Fábio Cherem"
+                },
+                {
+                    "name": "Gustavo Valadares"
+                },
+                {
+                    "name": "Hélio Gomes"
+                },
+                {
+                    "name": "Neider Moreira"
+                }
+            ]
+        },
+        {
+            "name": "PMN",
+            "children": [
+                {
+                    "name": "Duilio de Castro"
+                }
+            ]
+        },
+        {
+            "name": "PEN",
+            "children": [
+                {
+                    "name": "Fred Costa"
+                },
+                {
+                    "name": "João Vétor Xavier"
+                }
+            ]
+        },
+        {
+            "name": "PRTB",
+            "children": [
+                {
+                    "name": "Glaycon Franco"
+                }
+            ]
+        },
+        {
+            "name": "DEM",
+            "children": [
+                {
+                    "name": "Gustavo Corrêa"
+                },
+                {
+                    "name": "Jayro Lessa"
+                }
+            ]
+        },
+        {
+            "name": "PV",
+            "children": [
+                {
+                    "name": "Hely Tarqüénio"
+                },
+                {
+                    "name": "Inácio Franco"
+                },
+                {
+                    "name": "Juarez Távora"
+                },
+                {
+                    "name": "Rômulo Veneroso"
+                },
+                {
+                    "name": "Rosângela Reis"
+                },
+                {
+                    "name": "Tiago Ulisses"
+                }
+            ]
+        },
+        {
+            "name": "PPS",
+            "children": [
+                {
+                    "name": "Luzia Ferreira"
+                },
+                {
+                    "name": "Sebastião Costa"
+                }
+            ]
+        },
+        {
+            "name": "PHS",
+            "children": [
+                {
+                    "name": "Neilando Pimenta"
+                }
+            ]
+        },
+        {
+            "name": "PP",
+            "children": [
+                {
+                    "name": "Pinduca Ferreira"
+                },
+                {
+                    "name": "Romel Anézio"
+                }
+            ]
+        }
+    ]
+}
